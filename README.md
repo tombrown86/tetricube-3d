@@ -9,3 +9,8 @@ Unlike boring 2D tetris, I've made it easier by allowing the user move around th
 ..
 
 Actually, I'll be honest - it's pretty difficult! However, it's not so much about the game but rather the 3D engine.
+
+![image](https://github.com/user-attachments/assets/8b7c7f54-3500-4f51-88f1-b8b3597f1efb)
+
+![image](https://github.com/user-attachments/assets/a719a2c7-39a2-4387-a636-fc4ed4913eca)
+
